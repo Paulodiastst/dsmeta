@@ -12,7 +12,7 @@
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/179277287-ad48d1d1-8edd-49f6-9379-1272d5bb41e2.gif"/></P>
 
-<a href="https://dsmeta-paulodias.netlify.app/">Ir para página do projeto</a>
+<a href="https://dsmeta-paulodias.netlify.app/" target="_blank">Ir para página do projeto</a>
 
 <div id="objetivo">
 
